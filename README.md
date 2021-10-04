@@ -1,3 +1,5 @@
+##deploy
+
 ##CARA INSTALL MELALUI GIT
 
 > pkg install git
